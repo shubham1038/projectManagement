@@ -768,7 +768,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/animations.js");
 
     function HttpLoaderFactory(httpClient) {
-      return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_6__["TranslateHttpLoader"](httpClient, '/projectManagement/assests/i18n/');
+      return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_6__["TranslateHttpLoader"](httpClient, '/projectManagement/assets/i18n/');
     }
 
     var AppModule = function AppModule() {
