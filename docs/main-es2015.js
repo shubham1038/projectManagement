@@ -524,7 +524,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function HttpLoaderFactory(httpClient) {
-    return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_6__["TranslateHttpLoader"](httpClient, '/projectManagement/assests/i18n');
+    return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_6__["TranslateHttpLoader"](httpClient, '/projectManagement/assests/i18n/');
 }
 class AppModule {
 }
